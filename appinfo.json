@@ -1,0 +1,20 @@
+{
+  "uuid": "739f821c-0751-4ebe-beea-469914f930be",
+    "appKeys": {
+      "KEY_QUESTION" : 0,
+      "KEY_OP1" : 1,
+      "KEY_OP2" : 2,
+      "KEY_OP3" : 3
+},
+  "shortName": "my_socialtv_project",
+  "longName": "my_socialtv_project",
+  "companyName": "Antonio Villavicencio",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": []
+  }
+}
